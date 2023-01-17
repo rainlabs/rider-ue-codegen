@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rainlabs.rideruecodegen.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rainlabs.rideruecodegen.MyBundle
 
 class MyApplicationService {
 
